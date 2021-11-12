@@ -78,6 +78,17 @@ ul {
   margin: auto;
 }
 
+.clickable {
+  cursor: pointer
+}
+
+.hogImage {
+  max-width: 240px;
+}
+
+.extraDetails {
+  display: none;
+}
 
 .pigTile {
   display: inline;
